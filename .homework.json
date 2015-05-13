@@ -1,0 +1,18 @@
+{
+    "name": "evaluating-expressions",
+    "version": "0.0.1",
+    "title": "Evaluating JavaScript Expressions",
+    "description": "Practice evaluating these JavaScript expressions",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "JavaScript",
+        "boolean",
+        "expressions",
+        "number",
+        "string",
+        "types"
+    ],
+    "supplementalFiles": []
+}

@@ -1,0 +1,59 @@
+What do the following expressions evaluato to?
+
+`4+4`
+Type:
+Value:
+
+`'a'+'b'`
+Type:
+Value:
+
+4+4
+'a'+'b'
+1+2+'b'
+'b'+2+1
+'b'+(2+1)
+'a'+true
+''+'hello'
+''+7
+''+true
+'abc'.length - 5
+3/3
+6/3
+10/0
+-100/0
+10/0 === 11/0
+undefined + 7
+7 + undefined
+null + 7
+7 + null
+false + true + 'a'
+true + false
+true + true
+false + false
+true && true
+true && false
+false && true
+false && false
+true || true
+true || false
+false || true
+false || false
+Boolean('hello')
+Boolean(-17)
+Boolean(123.52)
+Boolean(0)
+Boolean(-0.0001)
+Boolean(0.0001)
+Boolean(null)
+Boolean(undefined)
+Boolean(Infinity)
+String(7)
+(7).toString()
+true.toString()
+test.toString()
+'I have been alive for '+29/10+' decades'
+'a'*3
+'5'/2
+5/'2'
+'a'/2
